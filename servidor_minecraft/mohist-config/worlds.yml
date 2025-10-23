@@ -1,0 +1,60 @@
+worlds:
+  world:
+    worldborder: 5.9999968E7
+    difficulty: EASY
+    seed: 6129782640857014028
+    environment: NORMAL
+    name: world
+    info: -/-
+    mohist: false
+    keepspawninmemory: true
+  DIM-1:
+    worldborder: 5.9999968E7
+  DIM1:
+    worldborder: 5.9999968E7
+  world/DIM-1:
+    difficulty: EASY
+  world/DIM1:
+    difficulty: EASY
+  otherside:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: deeperdarker
+  boiler_room_dimension:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: boh
+  gaster_dimension:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: boh
+  level_0:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: boh
+  the_aether:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: aether
+  anu_lair:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: fossil
+  treasure_room:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: fossil
+  world/deeperdarker/otherside:
+    difficulty: EASY
+  world/boh/boiler_room_dimension:
+    difficulty: EASY
+  world/boh/gaster_dimension:
+    difficulty: EASY
+  world/boh/level_0:
+    difficulty: EASY
+  world/aether/the_aether:
+    difficulty: EASY
+  world/fossil/anu_lair:
+    difficulty: EASY
+  world/fossil/treasure_room:
+    difficulty: EASY
