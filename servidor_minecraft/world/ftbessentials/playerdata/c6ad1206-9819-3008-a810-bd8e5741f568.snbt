@@ -3,19 +3,19 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: -423, y: 79, z: 3731, time: 1761113762747L, xRot: 10.201476f, yRot: 93.07434f }
+	last_seen: { dim: "minecraft:overworld", x: -484, y: 84, z: 3633, time: 1761410288551L, xRot: 26.400059f, yRot: -123.15137f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: -533, y: 61, z: 3572, time: 1761106102209L }
-		{ dim: "minecraft:overworld", x: -492, y: 64, z: 3609, time: 1761106172967L }
-		{ dim: "minecraft:overworld", x: -462, y: 71, z: 3580, time: 1761106547996L, xRot: 24.599709f, yRot: 48.69937f }
-		{ dim: "minecraft:overworld", x: -710, y: 71, z: 3577, time: 1761106574028L }
-		{ dim: "minecraft:overworld", x: -488, y: 62, z: 3647, time: 1761108225515L }
-		{ dim: "minecraft:overworld", x: -482, y: 63, z: 3650, time: 1761108761212L }
-		{ dim: "minecraft:overworld", x: -411, y: 72, z: 3635, time: 1761111131864L }
-		{ dim: "minecraft:overworld", x: -418, y: 71, z: 3639, time: 1761111153168L }
-		{ dim: "minecraft:overworld", x: -376, y: 65, z: 3751, time: 1761111634264L }
-		{ dim: "minecraft:overworld", x: -511, y: 65, z: 3581, time: 1761111888598L }
+		{ dim: "minecraft:overworld", x: -694, y: 66, z: 3839, time: 1761278351154L }
+		{ dim: "minecraft:overworld", x: -725, y: 71, z: 3736, time: 1761279294617L }
+		{ dim: "minecraft:overworld", x: -701, y: 68, z: 3753, time: 1761279388654L }
+		{ dim: "minecraft:overworld", x: -714, y: 78, z: 3772, time: 1761279603084L }
+		{ dim: "minecraft:overworld", x: -718, y: 70, z: 3741, time: 1761279722686L }
+		{ dim: "minecraft:overworld", x: -707, y: 80, z: 3687, time: 1761279863771L }
+		{ dim: "minecraft:overworld", x: -707, y: 79, z: 3691, time: 1761279923318L }
+		{ dim: "minecraft:overworld", x: -684, y: -42, z: 3717, time: 1761280887920L }
+		{ dim: "minecraft:overworld", x: -640, y: -39, z: 3791, time: 1761282889185L }
+		{ dim: "minecraft:overworld", x: -576, y: -23, z: 3788, time: 1761283082463L, xRot: -23.999512f, yRot: -92.09999f }
 	]
 	homes: { }
 	kit_use_times: { }

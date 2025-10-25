@@ -157,8 +157,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-10-24 05:21:16 +0000",
       "minecraft:sparse_jungle": "2025-10-22 04:51:17 +0000",
+      "minecraft:lukewarm_ocean": "2025-10-24 06:09:20 +0000",
+      "minecraft:river": "2025-10-24 05:19:44 +0000",
       "minecraft:snowy_taiga": "2025-10-22 04:26:30 +0000",
+      "minecraft:forest": "2025-10-24 06:02:34 +0000",
+      "minecraft:ocean": "2025-10-24 06:31:07 +0000",
       "minecraft:savanna": "2025-10-22 04:27:12 +0000",
       "minecraft:plains": "2025-10-22 04:48:00 +0000"
     },
@@ -200,83 +205,18 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-22 04:56:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-22 04:56:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-22 04:56:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-22 04:56:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-22 04:56:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-22 04:56:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-22 04:56:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-22 04:56:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-22 04:56:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-22 04:56:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-22 04:56:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-22 04:56:33 +0000"
-    },
-    "done": false
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-10-24 05:48:19 +0000",
+      "cooked_mutton": "2025-10-24 06:03:27 +0000",
+      "cooked_beef": "2025-10-24 05:54:01 +0000",
+      "apple": "2025-10-24 05:46:03 +0000",
       "poisonous_potato": "2025-10-22 04:35:53 +0000",
+      "bread": "2025-10-24 05:44:58 +0000",
       "beetroot": "2025-10-22 04:54:50 +0000",
-      "cooked_chicken": "2025-10-22 04:55:39 +0000"
+      "cooked_chicken": "2025-10-22 04:55:39 +0000",
+      "mushroom_stew": "2025-10-24 06:34:39 +0000",
+      "carrot": "2025-10-24 06:34:27 +0000"
     },
     "done": false
   },
@@ -316,27 +256,15 @@
     },
     "done": true
   },
-  "tombstone:event/eat_lollipop": {
-    "criteria": {
-      "coded_trigger": "2025-10-22 04:54:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2025-10-22 04:49:35 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-10-22 04:43:16 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "tombstone:adventure/first_knowledge": {
     "criteria": {
-      "minecraft:zombie": "2025-10-22 04:49:35 +0000"
+      "coded_trigger": "2025-10-22 04:43:16 +0000"
     },
     "done": true
   },
@@ -346,21 +274,179 @@
     },
     "done": true
   },
-  "tombstone:event/expert_tasting": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "eat_lollipop_1": "2025-10-22 04:54:39 +0000"
+      "minecraft:zombie": "2025-10-22 04:49:35 +0000"
     },
     "done": false
   },
-  "tombstone:adventure/first_knowledge": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "coded_trigger": "2025-10-22 04:43:16 +0000"
+      "minecraft:zombie": "2025-10-22 04:49:35 +0000"
     },
     "done": true
+  },
+  "tombstone:event/eat_lollipop": {
+    "criteria": {
+      "coded_trigger": "2025-10-22 04:54:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:event/expert_tasting": {
+    "criteria": {
+      "eat_lollipop_1": "2025-10-22 04:54:39 +0000",
+      "eat_lollipop_0": "2025-10-24 06:41:17 +0000"
+    },
+    "done": false
   },
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2025-10-22 04:55:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-24 06:41:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-24 06:41:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-24 06:41:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-24 06:41:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-24 06:41:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-10-24 06:41:34 +0000",
+      "log_spam_fixer": "2025-10-24 06:41:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-24 06:41:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-24 06:41:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-24 06:41:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-24 06:41:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-24 06:41:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-24 06:41:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-10-24 06:08:44 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/break_fossil": {
+    "criteria": {
+      "fossil_bio": "2025-10-24 05:32:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-10-24 06:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-10-24 05:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-10-24 05:27:18 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-10-24 06:38:11 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/root": {
+    "criteria": {
+      "requirement": "2025-10-24 05:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-10-24 06:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-10-24 05:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-10-24 05:35:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-10-24 06:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-10-24 05:25:48 +0000"
     },
     "done": true
   },
